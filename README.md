@@ -1,1 +1,1 @@
-# git-basics-project
+# Első projektem
